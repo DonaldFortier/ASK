@@ -1,0 +1,19 @@
+{
+  "name": "ask",
+  "description": "Expermenting with Amazon Skill Kit",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DonaldFortier/ASK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DonaldFortier/ASK/issues"
+  },
+  "homepage": "https://github.com/DonaldFortier/ASK"
+}
