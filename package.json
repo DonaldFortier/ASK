@@ -2,7 +2,6 @@
   "name": "ask",
   "description": "Expermenting with Amazon Skill Kit",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DonaldFortier/ASK/issues"
   },
-  "homepage": "https://github.com/DonaldFortier/ASK"
+  "homepage": "https://github.com/DonaldFortier/ASK",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0"
+  }
 }
